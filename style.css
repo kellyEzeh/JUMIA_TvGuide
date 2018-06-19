@@ -1,0 +1,114 @@
+.Heading {
+	font-size: 50px;
+	color: white;
+}
+
+.Background1 {
+	background-color: #12a6c5;
+}
+
+.TVdesc {
+	font-size: 15px;
+	color: #fff;
+}
+
+.screenimg {
+	padding-top: 80px;
+}
+
+.Background2 {
+	background-image: url('img/background2.jpg');
+}
+
+.tvsize {
+	color: #fff;
+}
+
+.column1 {
+	padding-left: 55px;
+}
+.column11 {
+	padding-left: 80px;
+}
+
+.column2 {
+	padding-left: 60px;
+}
+
+.column22 {
+	padding-left: 150px;
+}
+
+.column1head {
+	background-color: #00b9e5;
+	border: 1px solid black;
+	padding:  10px;
+
+}
+
+.rowborder {
+	border: 1px solid black;
+}
+
+.marginrow {
+	margin-top: -60px;
+}
+
+.tvsizetext {
+	padding-bottom: 80px;
+}
+
+.resolutioncolumn {
+	border: 1px solid black;
+}
+
+.resolution {
+	padding-left: 70px;
+}
+
+.verticalP {
+	padding-left: 80px;
+}
+
+.verticalpixel {
+	padding-left: 130px;
+}
+
+.v {
+	border: 1px solid black;
+}
+.others {
+	border: 1px solid black;
+}
+
+.ON {
+	padding-left: 100px;
+}
+
+.ONN {
+	padding-left: 130px;
+}
+
+.othername {
+	border: 1px solid black;
+}
+
+.RC {
+	background-color: #00b9e5;
+}
+
+.lcd {
+	padding-left: 50px;
+}
+
+.ndbutton {
+	margin-left: 60px;
+}
+
+.LLOQ {
+	background-color: #e5e5e5;
+}
+
+.hdmiimg {
+	padding-left: 120px;
+}
